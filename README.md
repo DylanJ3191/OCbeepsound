@@ -1,2 +1,2 @@
 # OCbeepsound
-To make your OC computer beep after typing 'pastebin run iJkN6ccR', type 'mv beep.lua /bin/', then type 'beep'.
+To make your OC computer beep after typing 'pastebin run 6C0eyy3z', type 'beep'.
